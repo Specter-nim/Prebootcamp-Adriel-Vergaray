@@ -1,4 +1,4 @@
-# Adriel Vergaray - Conocimientos en Desarrollo Web
+# Adriel Vergaray - Estudiante Ingeneria de Software con IA.
 
 ## Presentación
 
