@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Entregas - Comida Rapida</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Lista de Entregas - Comida Rapida</h1>
+
+        <input type="text" id="cliente" placeholder="Nombre del Cliente" />
+        <input type="text" id="pedido" placeholder="Descripción del Pedido" />
+        <input type="date" id="fecha" />
+        <input type="time" id="hora" />
+        <button id="agrepedido">Agregar Pedido</button>
+
+        <h2>Pedidos Pendientes:</h2><br>
+        <ul id="lista"></ul>
+    </div>
+
+    <script src="crud.js"></script>
+</body>
+</html>
